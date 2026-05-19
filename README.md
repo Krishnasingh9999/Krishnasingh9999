@@ -1,5 +1,5 @@
-<h1 align="center">Krishna Singh</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Software Engineering Opportunities</h3>
+<h1 align="center">Hi, I'm Krishna Singh 👋</h1>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnasingh9811">
@@ -25,9 +25,9 @@
 
 Computer Science undergraduate with hands-on experience building full-stack applications and backend systems focused on scalability, real-time communication, and practical problem solving.
 
-I work primarily with JavaScript/TypeScript, React, Node.js, Express, MongoDB, and modern backend tooling, with experience in authentication systems, API design, caching, WebSockets, and distributed architecture concepts.
+I work primarily with **JavaScript/TypeScript, React, Node.js, Express, MongoDB**, and modern backend tooling, with experience in authentication systems, API design, caching, WebSockets, and distributed architecture concepts.
 
-Currently focused on strengthening backend engineering, system design, DSA, and building production-oriented software systems.
+Full-stack developer with a focus on backend engineering, system design, and scalable application development.
 
 Open to **software engineering internships, full-time developer roles, and backend/full-stack opportunities.**
 
