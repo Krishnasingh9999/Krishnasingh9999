@@ -45,6 +45,16 @@ Smart healthcare platform focused on medicine management, reminders, accessibili
 
 ---
 
+### SyncTube-WatchParty Platform
+SyncTube is a full-stack, real-time collaborative watch party platform where users can create rooms, watch YouTube videos together in sync, chat live, react with emojis, and manage room roles.
+
+**Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO, SendGrid(for sending email)
+
+🔗 **Live Demo:** https://synctube-watchparty-platform-1.onrender.com/
+🔗 **Repository:** https://github.com/Krishnasingh9999/synctube-watchparty-platform
+
+---
+
 ### 🛒 E-Commerce Platform
 Full-stack commerce application with authentication, cart workflows, product management, and backend API integration.
 
