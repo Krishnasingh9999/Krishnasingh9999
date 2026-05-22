@@ -40,7 +40,8 @@ Smart healthcare platform focused on medicine management, reminders, accessibili
 
 **Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO
 
-🔗 **Live Demo:** https://medi-dost-frontend.vercel.app/  
+🔗 **Live Demo:** https://medi-dost-frontend.vercel.app/ 
+
 🔗 **Repository:** https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost
 
 ---
