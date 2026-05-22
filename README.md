@@ -41,7 +41,6 @@ Smart healthcare platform focused on medicine management, reminders, accessibili
 **Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO
 
 🔗 **Live Demo:** https://medi-dost-frontend.vercel.app/ 
-<br>
 🔗 **Repository:** https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost
 
 ---
@@ -52,6 +51,7 @@ SyncTube is a full-stack, real-time collaborative watch party platform where use
 **Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO, SendGrid(for sending email)
 
 🔗 **Live Demo:** https://synctube-watchparty-platform-1.onrender.com/
+<br/>
 🔗 **Repository:** https://github.com/Krishnasingh9999/synctube-watchparty-platform
 
 ---
