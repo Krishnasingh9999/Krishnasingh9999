@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Krishna Singh 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | MERN Stack</h3>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Engineer | MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnasingh9811">
