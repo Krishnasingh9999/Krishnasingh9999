@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://portfolio-coming-soon.vercel.app">
+  <a href="https://krishnasingh-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
 
-  <a href="https://drive.google.com/file/d/14pz1BfaZ-2WVimmVXZjg8Xr2ZoHTKVsP/view">
+  <a href="https://drive.google.com/file/d/19px6_U6Js1EnCj3aiLq_GOsf6OFedfGg/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs" />
   </a>
 
