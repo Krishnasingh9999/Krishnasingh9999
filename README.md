@@ -133,7 +133,7 @@ Full-stack commerce application with authentication, cart workflows, product man
 </p>
 
 <p align="center">
-  <img alt="Krishna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnasingh9999&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnasingh9999&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" width="100%" alt="Krishna's Contribution Graph" />
 </p>
 
 ---
