@@ -16,11 +16,13 @@
 
 ## 👨‍💻 About Me
 
-Computer Science undergraduate with hands-on experience in building distributed backend systems, real-time communication platforms, and full-stack web applications.
+Computer Science undergraduate with hands-on experience building full-stack applications and backend systems focused on scalability, real-time communication, and practical problem-solving.
 
-- 💡 **Core Interests:** Backend Engineering, System Design, Event-Driven Architectures, and Scalable APIs.
-- 🛠️ **Tech Stack:** TypeScript, Node.js, Express.js, React 19, MongoDB, Redis, RabbitMQ, Docker, and WebSockets.
-- 🎯 **Looking For:** Software Engineering Internships, Full-Time Developer Roles, and Backend/Full-Stack opportunities.
+I work primarily with **JavaScript/TypeScript, React, Node.js, Express, MongoDB**, and modern backend tooling, with experience in authentication systems, API design, caching, WebSockets, and distributed architecture concepts.
+
+Full-stack developer with a focus on backend engineering, system design, and scalable application development.
+
+Open to **software engineering internships, full-time developer roles, and backend/full-stack opportunities.**
 
 ---
 
@@ -45,8 +47,7 @@ Built with low-latency Socket.IO room events, dynamic host/viewer role managemen
 ---
 
 ### 💊 [MediDost — Smart Healthcare & Medicine Management Platform](https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost)
-An intelligent digital healthcare companion application designed to simplify prescription tracking, automate personalized medication dosage schedules, and prevent missed doses.  
-Provides a secure digital vault for medical documents and lab records along with real-time patient-doctor communication channels powered by Socket.IO and optimized MongoDB schemas.
+Smart healthcare platform focused on medicine management, reminders, accessibility, and real-time healthcare interactions.
 
 - **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO`
 - **Links:** [🌐 Live Demo](https://medi-dost-frontend.vercel.app/) &nbsp;|&nbsp; [💻 GitHub Repository](https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost)
@@ -54,8 +55,7 @@ Provides a secure digital vault for medical documents and lab records along with
 ---
 
 ### 🛒 [Full-Stack E-Commerce Platform](https://github.com/Krishnasingh9999/eCommerce_website)
-A robust full-stack e-commerce web application featuring role-based authentication (Admin & Customer), dynamic product catalog searching, and category-based inventory filtering.  
-Implemented using classic MVC architecture with Java Servlets and JSP, session-managed shopping cart workflows, secure order checkout pipelines, and relational MySQL database modeling.
+Full-stack commerce application with authentication, cart workflows, product management, and backend API integration.
 
 - **Tech Stack:** `Java` `JSP` `Servlets` `MySQL` `Bootstrap`
 - **Links:** [💻 GitHub Repository](https://github.com/Krishnasingh9999/eCommerce_website)
@@ -116,14 +116,6 @@ Implemented using classic MVC architecture with Java Servlets and JSP, session-m
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishnasingh9999&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
