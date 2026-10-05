@@ -1,138 +1,142 @@
-<h1 align="center">Hi, I'm Krishna Singh 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | MERN Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishnasingh9811">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  # Hi there, I'm Krishna Singh 👋
+  ### 🚀 Aspiring Software Engineer | Full-Stack & Backend Developer
 
-  <a href="https://krishnasingh-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-  </a>
+  <p align="center">
+    <a href="https://krishnasingh-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/krishnasingh9811"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://drive.google.com/file/d/19px6_U6Js1EnCj3aiLq_GOsf6OFedfGg/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+    <a href="mailto:krishna1863singh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-  <a href="https://drive.google.com/file/d/19px6_U6Js1EnCj3aiLq_GOsf6OFedfGg/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs" />
-  </a>
-
-  <a href="mailto:krishna1863singh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-## About Me
+### 🧑‍💻 About Me
 
-Computer Science undergraduate with hands-on experience building full-stack applications and backend systems focused on scalability, real-time communication, and practical problem solving.
-
-I work primarily with **JavaScript/TypeScript, React, Node.js, Express, MongoDB**, and modern backend tooling, with experience in authentication systems, API design, caching, WebSockets, and distributed architecture concepts.
-
-Full-stack developer with a focus on backend engineering, system design, and scalable application development.
-
-Open to **software engineering internships, full-time developer roles, and backend/full-stack opportunities.**
+- 🎓 **Computer Science undergraduate** passionate about building scalable web applications and distributed backend systems.
+- 💡 Core focus on **API Design, Real-Time Communication (WebSockets), Caching, and Microservices**.
+- 🛠️ Hands-on with **TypeScript, React, Node.js, Express, MongoDB, Redis & RabbitMQ**.
+- 🎯 Actively seeking **Software Engineering Internships & Full-Time Developer Roles**.
 
 ---
 
-## Featured Projects
+### 🛠️ Tech Stack
 
-### 💊 MediDost
-Smart healthcare platform focused on medicine management, reminders, accessibility, and real-time healthcare interactions.
+<table>
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Backend & Real-Time</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Databases & Caching</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-**Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO
+---
 
-🔗 **Live Demo:** https://medi-dost-frontend.vercel.app/ 
+### 🚀 Featured Projects
+
+#### 💬 [Real-Time Distributed Chat Application](https://github.com/Krishnasingh9999/realtime-chat-app)
+> Scalable, low-latency communication platform using event-driven microservices architecture.
+- **Key Features:** Instant 1-on-1 & group chats, live presence indicators, message queuing, and caching.
+- **Tech Stack:** `TypeScript` `React` `Node.js` `Express` `MongoDB` `Redis` `RabbitMQ` `Socket.IO`
+- **Links:** [🌐 Live Demo](https://your-chat-app-live-link.vercel.app/) &nbsp;|&nbsp; [💻 GitHub Repo](https://github.com/Krishnasingh9999/realtime-chat-app)
+
+---
+
+#### 🎬 [SyncTube — Real-Time WatchParty Platform](https://github.com/Krishnasingh9999/synctube-watchparty-platform)
+> Collaborative platform allowing users to watch synchronized YouTube streams, chat live, and manage custom rooms.
+- **Key Features:** Synchronized video playback, dynamic room roles, live reactions, and email invites via SendGrid.
+- **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `SendGrid`
+- **Links:** [🌐 Live Demo](https://synctube-watchparty-platform-1.onrender.com/) &nbsp;|&nbsp; [💻 GitHub Repo](https://github.com/Krishnasingh9999/synctube-watchparty-platform)
+
+---
+
+#### 💊 [MediDost — Smart Healthcare Platform](https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost)
+> Healthcare management system focused on medicine scheduling, reminders, and real-time interaction.
+- **Key Features:** Automated reminders, medication tracking, real-time doctor-patient interactions.
+- **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO`
+- **Links:** [🌐 Live Demo](https://medi-dost-frontend.vercel.app/) &nbsp;|&nbsp; [💻 GitHub Repo](https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost)
+
+---
+
+#### 🛒 [E-Commerce Platform](https://github.com/Krishnasingh9999/eCommerce_website)
+> Full-stack e-commerce system with role-based auth, cart workflows, and product catalog management.
+- **Tech Stack:** `Java` `JSP` `Servlets` `MySQL` `Bootstrap`
+- **Links:** [💻 GitHub Repo](https://github.com/Krishnasingh9999/eCommerce_website)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Krishnasingh9999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Krishnasingh9999&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Krishnasingh9999&theme=tokyonight&hide_border=true&layout=compact" height="140" alt="Top Languages" />
+</div>
+
 <br/>
-🔗 **Repository:** https://github.com/SmartHealthcareAssistant/A-Smart-Healthcare-Platform-MediDost
+
+<div align="center">
+  <img alt="Krishna's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnasingh9999&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f43f5e&area=true&hide_border=true" />
+</div>
 
 ---
 
-### SyncTube-WatchParty Platform
-SyncTube is a full-stack, real-time collaborative watch party platform where users can create rooms, watch YouTube videos together in sync, chat live, react with emojis, and manage room roles.
+### 🌐 Connect With Me
 
-**Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO, SendGrid(for sending email)
+<div align="center">
 
-🔗 **Live Demo:** https://synctube-watchparty-platform-1.onrender.com/
-<br/>
-🔗 **Repository:** https://github.com/Krishnasingh9999/synctube-watchparty-platform
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasingh9811)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Krishna04402809)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krishna.singh_99)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GyanSpark-KGS)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tdvq5j6d)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Krishna-Singh-4334)
 
----
-
-### 🛒 E-Commerce Platform
-Full-stack commerce application with authentication, cart workflows, product management, and backend API integration.
-
-**Tech:** Java, JSP, Servlets, MySQL
-
-🔗 **Repository:** https://github.com/Krishnasingh9999/eCommerce_website
-
----
-
-### 💬 Real-Time Chat Application *(Currently Building)*
-Scalable real-time communication platform designed using modern backend architecture patterns.
-
-**Tech:** TypeScript, Node.js, Express, React, MongoDB, Redis, RabbitMQ, Socket.IO
-
-**Architecture:** Microservices-based backend architecture with event-driven communication, caching, and real-time messaging support.
-
----
-
-## Technical Skills
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnasingh9999&theme=flat&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## GitHub Activity
-
-![](https://github-readme-stats.shion.dev/api?username=Krishnasingh9999&theme=dark&hide_border=false)
-
-![](https://streak-stats.demolab.com/?user=Krishnasingh9999&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krishnasingh9999&theme=dark&layout=compact)
-
-<p align="center">
-  <img alt="Krishna's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnasingh9999&bg_color=ffffff&color=000000&line=0969da&point=0969da&area=true&hide_border=true" />
-</p>
-
----
-
-## Find Me Around The Web
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tdvq5j6d)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna.singh_99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasingh9811)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Krishna-Singh-4334)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Krishna04402809)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GyanSpark-KGS)
+</div>
