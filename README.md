@@ -133,7 +133,8 @@ Full-stack commerce application with authentication, cart workflows, product man
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Krishnasingh9999&theme=react-dark&hide_border=true&area=true" width="100%" alt="Krishna's Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishnasingh9999&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnasingh9999&theme=tokyonight" width="48%" alt="Repos Per Language" />
 </p>
 
 ---
