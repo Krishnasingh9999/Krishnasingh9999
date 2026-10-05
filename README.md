@@ -46,25 +46,14 @@ Smart healthcare platform focused on medicine management, reminders, accessibili
 
 ---
 
-### 🎥 SyncTube-WatchParty Platform
+### SyncTube-WatchParty Platform
 SyncTube is a full-stack, real-time collaborative watch party platform where users can create rooms, watch YouTube videos together in sync, chat live, react with emojis, and manage room roles.
 
-**Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO, SendGrid (for email notifications)
+**Tech:** React, Node.js, Express, MongoDB, Redis, Socket.IO, SendGrid(for sending email)
 
 🔗 **Live Demo:** https://synctube-watchparty-platform-1.onrender.com/
 <br/>
 🔗 **Repository:** https://github.com/Krishnasingh9999/synctube-watchparty-platform
-
----
-
-### 💬 Real-Time Chat Application
-A scalable real-time messaging and chat platform built with event-driven microservices architecture, featuring instant messaging, presence tracking, media sharing, and Redis caching.
-
-**Tech:** TypeScript, React, Node.js, Express, MongoDB, Redis, RabbitMQ, Socket.IO, TailwindCSS
-
-🔗 **Live Demo:** https://your-chat-app-live-link.vercel.app/
-<br/>
-🔗 **Repository:** https://github.com/Krishnasingh9999/realtime-chat-app
 
 ---
 
@@ -74,6 +63,15 @@ Full-stack commerce application with authentication, cart workflows, product man
 **Tech:** Java, JSP, Servlets, MySQL
 
 🔗 **Repository:** https://github.com/Krishnasingh9999/eCommerce_website
+
+---
+
+### 💬 Real-Time Chat Application *(Currently Building)*
+Scalable real-time communication platform designed using modern backend architecture patterns.
+
+**Tech:** TypeScript, Node.js, Express, React, MongoDB, Redis, RabbitMQ, Socket.IO
+
+**Architecture:** Microservices-based backend architecture with event-driven communication, caching, and real-time messaging support.
 
 ---
 
@@ -137,4 +135,4 @@ Full-stack commerce application with authentication, cart workflows, product man
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasingh9811)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Krishna-Singh-4334)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Krishna04402809)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GyanSpark-KGS)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GyanSpark-KGS),  please chatapplication wale part me ko update kar dijiye, live link bhi attach kar dijiyega,
