@@ -132,11 +132,6 @@ Full-stack commerce application with authentication, cart workflows, product man
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasingh9999&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishnasingh9999&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnasingh9999&theme=tokyonight" width="48%" alt="Repos Per Language" />
-</p>
-
 ---
 
 ## 🌐 Find Me Around The Web
